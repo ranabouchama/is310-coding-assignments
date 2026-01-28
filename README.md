@@ -15,4 +15,4 @@
 
 4. AI Tool/Workflow 
 
-How will you work with AI? What tools if any do you plan to use?
+I plan to use AI very sparingly (if at all) in this course, if I use AI it would be as a sort of "search engine" to aid in understanding topics.
