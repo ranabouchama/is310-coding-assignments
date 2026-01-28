@@ -3,15 +3,15 @@
 
 1. Python
 
-![Python Installation](images/Python Proof.png)
+![Python Installation](images/PythonProof.png)
 
 2. Git
 
-![Git Installation](images/Git Proof.png)
+![Git Installation](images/GitProof.png)
 
 3. VS Code
 
-![VS Code Installation](images/VS Code Proof.png)
+![VS Code Installation](images/VSCodeProof.png)
 
 4. AI Tool/Workflow 
 
