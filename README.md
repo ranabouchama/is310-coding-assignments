@@ -8,4 +8,4 @@
 
 * Command Line Maze
 
-<h6> [Course Website] (https://cultureasdata-uiuc.github.io/is310-spring-2026/)
+<h6> [Course Website](https://cultureasdata-uiuc.github.io/is310-spring-2026/)
