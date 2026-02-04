@@ -1,7 +1,8 @@
 # Welcome to my culinary maze!
 
 ## What To Do:
-Navigate the culinary world by correctly identifying which national dish comes from which nation
++ Navigate the culinary world by correctly identifying which national dish comes from which nation
++ Open the "hints" in every section to know what door goes where!
 
 ## Important Commands
 + cd [directory_name] - Opens a file directory
