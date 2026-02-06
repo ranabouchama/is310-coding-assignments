@@ -3,7 +3,7 @@
 <h3> Assignments completed:
 
 * Init 310 (Homework 1)
-* Command Line Maze (Homework 2)
+*Command Line Maze (Homework 2)
 
 <h3> Assignments in progress:
 
