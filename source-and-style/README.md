@@ -1,1 +1,2 @@
-<h1>The Food Timeline</h1> [link here](https://www.foodtimeline.org/) 
+<h1>The Food Timeline</h1>
+[link](https://www.foodtimeline.org/)
