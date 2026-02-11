@@ -1,2 +1,2 @@
-# Header The Food Timeline
+# The Food Timeline
 [link](https://www.foodtimeline.org/)
