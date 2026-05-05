@@ -1,5 +1,4 @@
-// API documentation reference:
-// /<author>/<Shakespeare>[..][/<lines>][,<title>][..][.<.json>]
+// api PoetryDB <author>/<Shakespeare>[..][/<lines>][,<title>][..][.<.json>]
 
 async function suggestEntity() {
   try {
@@ -18,5 +17,4 @@ async function suggestEntity() {
   }
 }
 
-// Call the function
 suggestEntity();
